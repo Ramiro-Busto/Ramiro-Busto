@@ -28,6 +28,10 @@ End\-to\-end financial analysis pipeline that pulls data from the Alpha Vantage 
 
 End\-to\-end data analysis of more than 100,000 e\-commerce orders, using Python, SQL Server and Power BI\.
 
+### [GR Riveiro Website](<https://github.com/Ramiro-Busto/inmobiliaria-gr-riveiro>)
+
+Full\-stack website for a real estate agency in Quilmes, with a public property catalog and a private admin panel\. Built from scratch with ASP\.NET Core, Entity Framework Core and Angular, including JWT authentication, photo uploads and automatic email notifications\.
+
 ## Contact
 
 - [<img width="20" height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/0af835e2949a9222965522780e5e0810d3c53382/icons/linkedin.svg" alt="" /> LinkedIn](<https://www.linkedin.com/in/ramiro-busto>)
@@ -36,5 +40,5 @@ End\-to\-end data analysis of more than 100,000 e\-commerce orders, using Python
 - [Phone and WhatsApp](<https://wa.me/5491161719015>)
 
 <!-- github-profile-generator:manifest:v1
-{"format":"github-profile-generator","version":1,"bodyLength":4112,"bodyFingerprint":"fnv1a32:d0956397","sections":[{"kind":"module","moduleId":"presentation","start":0,"end":489},{"kind":"module","moduleId":"technologies","start":491,"end":3253},{"kind":"module","moduleId":"projects","start":3255,"end":3731},{"kind":"module","moduleId":"contact","start":3733,"end":4111}]}
+{"format":"github-profile-generator","version":1,"bodyLength":4480,"bodyFingerprint":"fnv1a32:a0be4be5","sections":[{"kind":"module","moduleId":"presentation","start":0,"end":489},{"kind":"module","moduleId":"technologies","start":491,"end":3253},{"kind":"module","moduleId":"projects","start":3255,"end":4099},{"kind":"module","moduleId":"contact","start":4101,"end":4479}]}
 -->
